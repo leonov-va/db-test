@@ -1,31 +1,67 @@
 {
-  "posts": [
+  "chats": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "1",
+      "image": "require('images/message-img.svg')",
+      "avatar": "null",
+      "category": "Тех. поддержка",
+      "name": "Barter team",
+      "description": "Вы можете токенизировать актив только разместив объявление",
+      "date": "21 фев 2020",
+      "unread": "null",
+      "isSupport": "true",
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": "2",
+      "image": "require('images/incoming-img2.png')",
+      "avatar": "require('images/user.png')",
+      "category": "Коллекция мерседесов",
+      "name": "Leon Wiremoon",
+      "description": "Кайф! Пожалуй заберу! Кидайте запрос!",
+      "date": "1 мар 2020",
+      "unread": "1",
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
+      "id": "3",
+      "image": "require('images/item5.png')",
+      "avatar": "require('images/user.png')",
+      "category": "Яхта “Louisa”",
+      "name": "Lana River",
+      "description": "Yes, i can pay for delivery",
+      "date": "29 фев 2020",
+      "unread": "null",
+    },
   ],
-  "comments": [
+  "messages": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "0",
+      "category": "Коллекция мерседесов",
+      "categoryImage": "require('images/incoming-img2.png')",
+      "status": "online",
+      "avatar": "require('images/user.png')",
+      "userName": "Leon Wiremoon",
+      "messages": [
+        {
+          "id": "0",
+          "type": "in",
+          "image": "require('images/message-img.svg')",
+          "text": "Приветствую! Расскажите о своей проблеме",
+          "date": "14:15, 21.04.2020",
+        },
+        {
+          "id": "1",
+          "type": "out",
+          "text": "Добрый день, у меня проблема с токенизацией актива. Могу ли я токенизировать актив не размещая объявление?",
+          "date": "14:18, 21.04.2020",
+        },
+        {
+          "id": "2",
+          "type": "in",
+          "image": "require('images/message-img.svg')",
+          "text": "Вы можете токенизировать актив только разместив объявление",
+          "date": "14:15, 21.04.2020",
+        },
+      ],
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
