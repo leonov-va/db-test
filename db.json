@@ -62,6 +62,66 @@
           "date": "14:15, 21.04.2020"
         }
       ]
+    },
+    {
+      "id": 1,
+      "category": "Коллекция мерседесов",
+      "categoryImage": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584__340.png",
+      "status": "online",
+      "avatar": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425__340.png",
+      "userName": "Leon Wiremoon",
+      "messages": [
+        {
+          "id": 0,
+          "type": "in",
+          "image": "https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916__340.png",
+          "text": "Добрый день, у меня проблема с токенизацией актива. Могу ли я токенизировать актив не размещая объявление?",
+          "date": "14:15, 21.04.2020"
+        },
+        {
+          "id": 1,
+          "type": "out",
+          "text": "Приветствую! Расскажите о своей проблеме",
+          "date": "14:18, 21.04.2020"
+        },
+        {
+          "id": 2,
+          "type": "in",
+          "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425__340.png",
+          "text": "Вы можете токенизировать актив только разместив объявление",
+          "date": "14:15, 21.04.2020"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Яхта Louisa",
+      "categoryImage": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584__340.png",
+      "status": "online",
+      "avatar": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425__340.png",
+      "userName": "Lana River",
+      "messages": [
+        {
+          "id": 0,
+          "type": "in",
+          "image": "https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916__340.png",
+          "text": "Добрый день, у меня проблема с токенизацией актива. Могу ли я токенизировать актив не размещая объявление?",
+          "date": "14:15, 21.04.2020"
+        },
+        {
+          "id": 1,
+          "type": "out",
+          "text": "Приветствую! Расскажите о своей проблеме",
+          "date": "14:18, 21.04.2020"
+        },
+        {
+          "id": 2,
+          "type": "in",
+          "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425__340.png",
+          "text": "Вы можете токенизировать актив только разместив объявление",
+          "date": "14:15, 21.04.2020"
+        }
+      ]
     }
   ],
   "profile": {
