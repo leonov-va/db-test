@@ -8,7 +8,7 @@
       "name": 'Barter team',
       "description": 'Вы можете токенизировать актив только разместив объявление',
       "date": '21 фев 2020',
-      "unread": null,
+      "unread": "null",
       "isSupport": true,
     },
     {
@@ -29,7 +29,7 @@
       "name": 'Lana River',
       "description": 'Yes, i can pay for delivery',
       "date": '29 фев 2020',
-      "unread": null,
+      "unread": "null",
     },
   ],
   "messages": [
