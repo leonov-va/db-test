@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 12,
-      "title": "Post 1"
+      "image": "require('images/message-img.svg')"
     },
     {
       "id": 234,
