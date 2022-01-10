@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 12,
-      "image": "require('images/message-img.svg')"
+      "image": "require('images/message-img.svg')",
+      "avatar": null,
     },
     {
       "id": 234,
