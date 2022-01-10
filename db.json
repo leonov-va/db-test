@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "chats": [
     {
       "id": 1,
       "image": "require('images/message-img.svg')",
