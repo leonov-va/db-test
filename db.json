@@ -35,10 +35,10 @@
   "messages": [
     {
       "id": 0,
-      "category": "Тех. поддержка",
+      "category": null,
       "categoryImage": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584__340.png",
       "status": "online",
-      "avatar": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425__340.png",
+      "avatar": null,
       "userName": "Barter team",
       "messages": [
         {
