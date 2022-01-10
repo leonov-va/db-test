@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 12,
+      "id": 0,
       "image": "require('images/message-img.svg')",
       "avatar": null,
       "category": "Тех. поддержка",
@@ -12,8 +12,14 @@
       "isSupport": true
     },
     {
-      "id": 234,
-      "title": "Post 2"
+      "id": 1,
+      "image": "require('images/incoming-img2.png')",
+      "avatar": "require('images/user.png')",
+      "category": "Коллекция мерседесов",
+      "name": "Leon Wiremoon",
+      "description": "Кайф! Пожалуй заберу! Кидайте запрос!",
+      "date": "1 мар 2020",
+      "unread": 1
     }
   ],
   "comments": [
