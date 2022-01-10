@@ -1,6 +1,6 @@
 # test-db
 ```sh
-https://my-json-server.typicode.com/
+[https://my-json-server.typicode.com/]
 ```
 ```sh
 https://my-json-server.typicode.com/leonov-va/test-db/chats
