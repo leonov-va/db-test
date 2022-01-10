@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "chats": [
     {
       "id": 0,
       "image": "require('images/message-img.svg')",
@@ -45,6 +45,8 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Vladislav",
+    "lastName": "Leonov",
+    "age: 29
   }
 }
