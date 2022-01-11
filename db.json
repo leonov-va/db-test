@@ -227,11 +227,5 @@
       "username": "Jessika",
       "numberOfViewers": 1506
     }
-  ],
-  "choices": {
-    "sortBy": [
-      { "label": "Popularity", "value": 1 },
-      { "label": "Novelty", "value": 2 }
-    ]
-  }
+  ]
 }
